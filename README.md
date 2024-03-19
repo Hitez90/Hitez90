@@ -16,7 +16,7 @@
 ### :metal: Мои навыки:
 <ul>
 <li>Использую Python (pandas, numpy, seaborn, matplotlib) и Jupyter для работы с данными;
-<li>Использую SQL для работы с СУБД (Joinы, сложные запросы, CTE, оконные функции) Clickhouse/PostgreSQL;
+<li>SQL для работы с СУБД (Joinы, сложные запросы, CTE, оконные функции) Clickhouse/PostgreSQL;
 <li>Разрабатываю дэшборды в Tableau и Redash;
 <li>Занимаюсь продуктовой аналитикой, понимаю какой смысл несут за собой ключевые метрики продукта: ARPU, ARPPU, retention, conversion, churn rate и т.д.
 <li>Провожу и организовываю А/В тесты, применяя различные подходы основанные на математической статистике;
