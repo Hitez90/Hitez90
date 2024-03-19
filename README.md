@@ -54,9 +54,7 @@
 |[Продуктовая аналитика mobile app](https://github.com/Hitez90/mobile_game)|Построена когорта по пользователям с момента регистрации в приложении и написана функция расчета retention, проведен А/B тест для сравнения различных наборов акционных предложений по таким метрикам как: ARPU, ARPPU и Conversion Rate. Также предложены новые метрики оценки эффективности ивентовых событий проводимых в игре.|**Pandas** **Numpy** **Scipy**  **Seaborn** **Requests**|
 |[A/B тестирование](https://github.com/Hitez90/prod_analytics)|Проведение А/В теста для определения эффективности новой системы рекомендации товаров. |**Pandas** **Numpy** **Seaborn** **Scipy** **Sklearn**|
 |[Автоматизация в Airflow](https://github.com/Hitez90/DAGs)|Написание DAG для автоматизации отчетности по доменам|**Pandas** **Requests** **Airflow**|
-|Примеры дэшбордов в Tableau [Tableau](https://public.tableau.com/app/profile/vladislav.tsuzoy/vizzes)|Мониторинг степени выгорания сотрудников на работе. 
-Анализ рынка вакансий HH.ru для аналитиков данных. 
-Ежемесячный отчет отдела продаж |**Tableau** 
+|Примеры дэшбордов в Tableau [Tableau](https://public.tableau.com/app/profile/vladislav.tsuzoy/vizzes)|Мониторинг степени выгорания сотрудников на работе. Анализ рынка вакансий HH.ru для аналитиков данных. Ежемесячный отчет отдела продаж |**Tableau** 
 
 
 <hr>
