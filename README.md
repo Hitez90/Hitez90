@@ -7,7 +7,7 @@
 <div align="center">
 
   <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/htzzth)</a>
-  <a href="">[![Vkontakte](https://img.shields.io/badge/VK-0b0038?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/id137625669)</a>
+
 
 </div>
 
